@@ -1,0 +1,17 @@
+EGGS
+MILK
+CUCUMBERS
+MUSHROOMS
+TOFU
+STEAK
+APRICOTS
+AVOCADO
+COFFEE GROUNDSeggs
+milk
+cucumbers
+mushrooms
+tofu
+steak
+apricots
+avocado
+coffee grounds
